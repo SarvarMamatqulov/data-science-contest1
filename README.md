@@ -10,7 +10,7 @@
 This project contains solutions to various Python tasks, each implemented in separate modules for better organization.
 
 ## File Structure
-- `task1.py` → Function decorator to measure execution time.
-- `task2.py` → Function that accepts an arbitrary number of named arguments and prints them.
-- `task3.py` → Function that processes input values based on their data types.
+- `task1.py` → Function that accepts an arbitrary number of named arguments and prints them.
+- `task2.py` → Function that processes input values based on their data types.
+- `task3.py` → Function decorator to measure execution time.
 - `main.py` → Main script that imports and tests all functions.
